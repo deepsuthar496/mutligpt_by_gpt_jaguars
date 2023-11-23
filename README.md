@@ -18,9 +18,7 @@ https://chat.openai.com/g/g-Gw1gpAfKr-multiple-gpt-by-gpt-jaguars
 
 
 
-**This GPT has a command system which has a following commands
-**
-
+**This GPT has a command system which has a following commands**
 
 /flist - whenever i run this command you give me a list of above features which is 1.InstagramSEO , 2.RankMathMaster , 3.Unrestricted Dalle3 , 4.linux terminal . at the end of the list you give me a this text " You can access this features with "/on" command/
 
