@@ -6,7 +6,7 @@
 
 This GPT comes equipped with a 150-prompt library, enabling it to transform ChatGPT into more than 150 unique characters (personal favorite command 🔥).
 
-### The Power Commands ( Thing that make my GPT more powerful 💪 and unique 🥇 )
+## The Power Commands ( Thing that make my GPT more powerful 💪 and unique 🥇 )
 
 - `/promptlist` - This GPT has a built-in library of 150 prompts, which is able to turn ChatGPT into over 150 different characters.
   
